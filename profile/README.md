@@ -16,6 +16,7 @@ Repository|Description
 
 Repository|Description|Status
 ---|---|---
-[PennyPincher](https://github.com/ReiwaTech/PennyPincher)|Fork of [tesu/InventoryTools](https://github.com/tesu/InventoryTools).| Ready for 6.4
-[InventoryTools](https://github.com/ReiwaTech/InventoryTools)|Fork of [Critical-Impact/InventoryTools](https://github.com/Critical-Impact/InventoryTools). Also known as __Allagan Tools__.|Working on
-[GatherBuddy](https://github.com/ReiwaTech/GatherBuddy)|Fork of [Ottermandias/GatherBuddy](https://github.com/Ottermandias/GatherBuddy).|Pending
+[PennyPincher](https://github.com/ReiwaTech/PennyPincher)|Fork of [tesu/InventoryTools](https://github.com/tesu/PennyPincher).| Ready for 6.4
+[InventoryTools](https://github.com/ReiwaTech/InventoryTools)|Fork of [Critical-Impact/InventoryTools](https://github.com/Critical-Impact/InventoryTools). Also known as __Allagan Tools__.| Ready for 6.4
+[GatherBuddy](https://github.com/ReiwaTech/GatherBuddy)|Fork of [Ottermandias/GatherBuddy](https://github.com/Ottermandias/GatherBuddy).| Working on
+[HappyIME](https://github.com/ReiwaTech/HappyIME)|IME fix for CN client.| Ready for 6.4
